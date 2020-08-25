@@ -1,6 +1,6 @@
 class School 
   
-  attr_accessor :name, 
+  attr_accessor :name, :roster
   
   roster= {}
   
@@ -10,7 +10,8 @@ class School
     roster[grade] << student_name
   end 
   
-  def grade
+  def grade(grade)
+    roster[grade]
   
   
   
