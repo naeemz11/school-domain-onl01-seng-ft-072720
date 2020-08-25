@@ -1,9 +1,11 @@
 class School 
   
-  roster= []
+  roster= {}
   
   
-  
+  def add_student
+    
+  end 
   
   
   
