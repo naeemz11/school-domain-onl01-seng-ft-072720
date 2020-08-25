@@ -1,4 +1,15 @@
-
+class School 
+  
+  roster= []
+  
+  
+  
+  
+  
+  
+  
+  
+end 
 
 
 
